@@ -1,3 +1,5 @@
+This is the Unreal Plugin for in-game music playback composed in the [XJ music](https://github.com/xjmusic/xjmusic) desktop workstation.
+
 Setup
 ----------------------
 
